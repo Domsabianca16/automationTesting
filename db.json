@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "title": "Post 1",
+      "body": "Body pentru post 1",
+      "userId": 1,
+      "id": "t7ppoCik-Sg"
+    },
+    {
+      "title": "Post 2",
+      "body": "Body pentru post 2",
+      "userId": 2,
+      "id": "ag7YZ59cIV8"
+    },
+    {
+      "title": "Post 3",
+      "body": "Body pentru post 3",
+      "userId": 3,
+      "id": "GG6QnPAlOiU"
+    },
+    {
+      "title": "Post 1",
+      "body": "Body pentru post 1",
+      "userId": 1,
+      "id": "kB6VsKmMeQU"
+    },
+    {
+      "title": "Post 2",
+      "body": "Body pentru post 2",
+      "userId": 2,
+      "id": "NHFdFIxe39c"
+    },
+    {
+      "title": "Post 3",
+      "body": "Body pentru post 3",
+      "userId": 3,
+      "id": "16yPG2oaq-c"
+    }
+  ],
+  "comments": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
